@@ -7,4 +7,4 @@ To run:
     Next, edit the Bot.py file in the sections I’ve marked with comments.
     Then, install the required libraries.
     Finally, run the script with the following command:
-    **python Bot.py**
+**python Bot.py**
